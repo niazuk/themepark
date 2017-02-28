@@ -1,0 +1,66 @@
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\themepark\themepark\bin\ApplicationInsights.config
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\themepark\themepark\bin\roslyn\csc.exe
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\themepark\themepark\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\themepark\themepark\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\themepark\themepark\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\themepark\themepark\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\themepark\themepark\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\themepark\themepark\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\themepark\themepark\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\themepark\themepark\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\themepark\themepark\bin\roslyn\vbc.exe
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\themepark\themepark\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\themepark\themepark\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\themepark\themepark\bin\themepark.dll.config
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\themepark\themepark\bin\themepark.dll
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\themepark\themepark\bin\themepark.pdb
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\themepark\themepark\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\themepark\themepark\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\themepark\themepark\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\themepark\themepark\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\themepark\themepark\bin\Microsoft.AI.Web.dll
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\themepark\themepark\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\themepark\themepark\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\themepark\themepark\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\themepark\themepark\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\themepark\themepark\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\themepark\themepark\bin\Microsoft.AI.Web.xml
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\themepark\themepark\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\themepark\themepark\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\themepark\themepark\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\themepark\themepark\obj\Release\themepark.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\themepark\themepark\obj\Release\themepark.dll
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\themepark\themepark\obj\Release\themepark.pdb
+D:\themepark\themepark\bin\ApplicationInsights.config
+D:\themepark\themepark\bin\roslyn\csc.exe
+D:\themepark\themepark\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\themepark\themepark\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\themepark\themepark\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\themepark\themepark\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\themepark\themepark\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\themepark\themepark\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\themepark\themepark\bin\roslyn\System.Collections.Immutable.dll
+D:\themepark\themepark\bin\roslyn\System.Reflection.Metadata.dll
+D:\themepark\themepark\bin\roslyn\vbc.exe
+D:\themepark\themepark\bin\roslyn\VBCSCompiler.exe
+D:\themepark\themepark\bin\roslyn\VBCSCompiler.exe.config
+D:\themepark\themepark\bin\themepark.dll.config
+D:\themepark\themepark\bin\themepark.dll
+D:\themepark\themepark\bin\themepark.pdb
+D:\themepark\themepark\bin\Microsoft.AI.Agent.Intercept.dll
+D:\themepark\themepark\bin\Microsoft.AI.DependencyCollector.dll
+D:\themepark\themepark\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\themepark\themepark\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\themepark\themepark\bin\Microsoft.AI.Web.dll
+D:\themepark\themepark\bin\Microsoft.AI.WindowsServer.dll
+D:\themepark\themepark\bin\Microsoft.ApplicationInsights.dll
+D:\themepark\themepark\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\themepark\themepark\bin\Microsoft.AI.DependencyCollector.xml
+D:\themepark\themepark\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\themepark\themepark\bin\Microsoft.AI.Web.xml
+D:\themepark\themepark\bin\Microsoft.AI.WindowsServer.xml
+D:\themepark\themepark\bin\Microsoft.ApplicationInsights.xml
+D:\themepark\themepark\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\themepark\themepark\obj\Release\themepark.csprojResolveAssemblyReference.cache
+D:\themepark\themepark\obj\Release\themepark.dll
+D:\themepark\themepark\obj\Release\themepark.pdb
